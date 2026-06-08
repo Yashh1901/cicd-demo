@@ -1,7 +1,7 @@
 # calculator.py
 
 def add(a, b):
-    return a - b  # ← BUG: should be a + b, we changed it to minus
+    return a + b  
 
 def subtract(a, b):
     return a - b
